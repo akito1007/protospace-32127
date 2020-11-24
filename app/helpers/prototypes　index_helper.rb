@@ -1,0 +1,2 @@
+module Prototypes　indexHelper
+end
